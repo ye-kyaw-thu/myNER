@@ -132,7 +132,11 @@ MattCochrane	fw	S-PER
 
 ## Usage  
 
-The myNER 7 Tags Corpus (v1.0) is being used in a paper submitted to the *International Conference on Cybernetics and Innovations (ICCI 2025)*.  
+The **myNER 7 Tags Corpus (v1.0)** is the primary dataset for our paper:  
+**"myNER: Contextualized Burmese Named Entity Recognition with Bidirectional LSTM and fastText Embeddings"**,  
+submitted to the *International Conference on Cybernetics and Innovations (ICCI 2025)*.  
+
+A preprint is available [here](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/paper/myNER_ICCI2025_preprint.pdf).  
 
 ## Citation
 
