@@ -1,5 +1,9 @@
 # myNER (7 Tags)
 
+**Named Entity Recognition (NER)** identifies and categorizes entities in text, yet research has largely neglected low-resource languages like **Myanmar (Burmese)** due to the scarcity of annotated datasets. To bridge this gap, we present **myNER (7-tags)**, the first publicly available word-level NER corpus for Burmese, featuring:
+
+- A **7-tag annotation scheme** for named entities
+- **Integrated POS tags** to enrich syntactic context
 
 ## License
 
