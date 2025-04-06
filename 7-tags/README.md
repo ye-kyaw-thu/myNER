@@ -153,7 +153,9 @@ A preprint is available [here](https://github.com/ye-kyaw-thu/myNER/blob/main/7-
        width="600">  
        
   <br/>  
+  
   **Figure 2: Best Presentation Award certificate**  
+
 </div>
 
 ## Citation
