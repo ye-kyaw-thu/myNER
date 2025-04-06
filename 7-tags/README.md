@@ -26,6 +26,16 @@ myNER corpus containing 16, 605 sentences, originally sourced from data taken fr
 
 </div>
 
+## Tag Distribution
+
+The following figure shows the distribution of named entity (NE) categories in the **myNER (7-tags)** corpus, excluding the non-entity tag `O`. The count includes tokens from the training, validation, and test sets.
+
+This visualization helps users understand the balance and representation of each NE tag in the dataset. As shown, `LOC` (location) entities are the most frequent, followed by `NUM`, `PER`, and `DATE`, while `ORG` and `TIME` are relatively less frequent.
+
+![Tag Distribution in myNER Corpus](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/doc/datatags_2.png)
+
+*Figure 1: Distribution of NER tag categories in the myNER corpus (excluding the 'O' tag).*
+
 ## Corpus
 
 The corpus files are available under the [myNER/7-tags/corpus_ver.1.0/](https://github.com/ye-kyaw-thu/myNER/tree/main/7-tags/corpus_ver.1.0) folder.  
