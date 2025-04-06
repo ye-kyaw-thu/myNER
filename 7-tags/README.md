@@ -142,6 +142,18 @@ submitted to the *International Conference on Cybernetics and Innovations (ICCI 
 
 A preprint is available [here](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/paper/myNER_ICCI2025_preprint.pdf).  
 
+## Award
+
+**3 April 2025**: Our paper *"myNER: Contextualized Burmese Named Entity Recognition with Bidirectional LSTM and fastText Embeddings via Joint Training with POS Tagging"* received the **Best Presentation Award** at the [4th International Conference on Cybernetics and Innovations 2025 (ICCI 2025)](https://example.com), Pattaya, Thailand.
+
+<div align="center">
+  <img src="https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/doc/BestPresentationAward_Certificate_from_KLT.jpg" 
+       alt="Best Presentation Award Certificate" 
+       width="600">
+  <br>
+  <strong>Figure 2.</strong> Best Presentation Award certificate
+</div>
+
 ## Citation
 
 If you use the **myNER (7-tag)** corpus in your research, we would appreciate it if you cite the following reference:  
