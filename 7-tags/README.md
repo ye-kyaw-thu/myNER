@@ -8,6 +8,17 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 ## NER Tags
 
+| **Tag** | **Description**                       | **Examples**                                                                 |
+|--------|---------------------------------------|------------------------------------------------------------------------------|
+| DATE   | Date                                  | ၁ ရက် ၅ လ ၁၉၉၆ (01-05-1996), ကဆုန်လပြည့် (full moon day of Kasone)          |
+| TIME   | Time                                  | မနက် ၆ နာရီ ၁၀ မိနစ် (06:10 AM)                                            |
+| NUM    | Numbers                               | ၁ (1), ၁သန်း (1 Million)                                                    |
+| PER    | Person Names                          | အန်တိုနီယို (Antonio), ကောင်းလွင်သန့် (Kaung Lwin Thant)                    |
+| ORG    | Organizations and Institutions        | မိုက်ခရိုဆော့ (Microsoft Inc), ဟားဗတ်တက္ကသိုလ် (Harvard University)         |
+| LOC    | Locations and Geographic Features     | အာရှတိုက် (Asia), ထိုင်းနိုင်ငံ (Thailand)                                 |
+| O      | Outside                               | Nonspecific entities which do not match the above tags                      |
+
+
 ## Publication
 
 The myNER 7 Tags corpus (version 1.0) is being used for The International Conference on Cybernetics and Innovations (ICCI 2025) Conference paper.  
