@@ -8,6 +8,8 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 ## NER Tags
 
+myNER corpus containing 16, 605 sentences, originally sourced from data taken from the [myPOS](https://github.com/ye-kyaw-thu/myPOS/) version 3 corpus, is manually annotated NER corpus for our experiments. In our corpus, we used the BIOES (B-Begin, I-Inside, O-Outside, E-End, S-Single) tagging scheme with a total of seven tag categories as shown in Table 1.  
+
 <div align="center">  
   
 **Table 1. Tag Names, Descriptions, and Examples of myNER Corpus**  
