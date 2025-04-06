@@ -24,6 +24,15 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 </div>
 
+## Corpus 
+
+Under myNER/7-tags/corpus_ver.1.0/ folder,
+
+myNER-7tags_ver.1.0.conll: myNER (7 tags) version 1.0, UTF-8 text, CONLL format  
+train_v5.conll: Training data, UTF-8 text, CONLL format  
+val_v5.conll: Validation data, UTF-8 text, CONLL format  
+test_v5.conll: Test data, UTF-8 text, CONLL format  
+
 ## Publication
 
 The myNER 7 Tags corpus (version 1.0) is being used for The International Conference on Cybernetics and Innovations (ICCI 2025) Conference paper.  
