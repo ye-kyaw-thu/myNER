@@ -150,8 +150,8 @@ A preprint is available [here](https://github.com/ye-kyaw-thu/myNER/blob/main/7-
   <img src="https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/doc/BestPresentationAward_Certificate_from_KLT.jpg" 
        alt="Best Presentation Award Certificate" 
        width="600">
-  <br>
-  **Figure 2: Best Presentation Award certificate**
+  <br/>
+  **Figure 2: Best Presentation Award certificate**  
 </div>
 
 ## Citation
