@@ -8,6 +8,8 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 ## NER Tags
 
+**Table 1. Tag Names, Descriptions, and Examples of myNER Corpus**  
+
 | **Tag** | **Description**                       | **Examples**                                                                 |
 |--------|---------------------------------------|------------------------------------------------------------------------------|
 | DATE   | Date                                  | ၁ ရက် ၅ လ ၁၉၉၆ (01-05-1996), ကဆုန်လပြည့် (full moon day of Kasone)          |
