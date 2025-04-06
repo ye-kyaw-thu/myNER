@@ -52,6 +52,71 @@ Each file uses a **CoNLL-style format** with **three columns**: word, part-of-sp
 - [val_v5.conll](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/corpus_ver.1.0/val_v5.conll): Validation set  
 - [test_v5.conll](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/corpus_ver.1.0/test_v5.conll): Test set
 
+## Format
+
+Each line in the corpus follows a **CoNLL-style tab-separated format** with three columns:  
+**Word**, **Part-of-Speech (POS) Tag**, and **Named Entity (NER) Tag**.
+
+Sentences are separated by blank lines.
+
+Below are three example sentences taken from the **top of the test set** (`test_v5.conll`). These examples illustrate different types of named entities:
+
+```
+ရွာ	n	O
+နေရာ	n	O
+ကုတ်	n	O
+မှာ	ppm	O
+၂၁၃၉၈၃	num	S-NUM
+ဖြစ်	v	O
+သည်	ppm	O
+။	punc	O
+
+ကျောက်ဖြူတိုင်	n	B-LOC
+ရွာ	n	E-LOC
+သည်	ppm	O
+စစ်ကိုင်း	n	B-LOC
+တိုင်း	part	I-LOC
+ဒေသကြီး	n	E-LOC
+၊	punc	O
+ယင်းမာပင်	n	B-LOC
+ခရိုင်	n	E-LOC
+၊	punc	O
+ဆားလင်းကြီး	n	B-LOC
+မြို့နယ်	n	E-LOC
+၊	punc	O
+ဖောင်းကတာ	n	B-LOC
+ကျေးရွာ	n	I-LOC
+အုပ်စု	n	E-LOC
+၌	ppm	O
+တည်ရှိ	v	O
+သည်	ppm	O
+။	punc	O
+
+ကြက်ခြေနီ	n	S-ORG
+မှ	ppm	O
+ပြောရေးဆိုခွင့်ရှိသူ	n	O
+MattCochrane	fw	S-PER
+မော့တ်ကော့ချရင်း	n	S-PER
+က	ppm	O
+ထို	adj	O
+ဆိုင်ကလုန်း	n	O
+ကြောင့်	ppm	O
+သေကံမရောက်သက်မပျောက်	v	O
+ဘဲ	part	O
+ကျန်ရစ်	n	O
+များ	part	O
+သည်	ppm	O
+အလုံးစုံ	n	O
+လိုအပ်	v	O
+သည်	ppm	O
+ဟု	part	O
+ပြော	v	O
+ခဲ့	part	O
+သည်	ppm	O
+။	punc	O
+```
+
+
 ## Publication
 
 The myNER 7 Tags corpus (version 1.0) is being used for The International Conference on Cybernetics and Innovations (ICCI 2025) Conference paper.  
