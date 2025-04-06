@@ -126,7 +126,9 @@ MattCochrane	fw	S-PER
 2. Hsu Myat Mo and Khin Mar Soe, "Named Entity Recognition for Myanmar Language,"  
    in *Proceedings of the 2022 International Conference on Communication and Computer Research (ICCR 2022)*,  
    Sookmyung Women’s University, Seoul, Korea, 2022.  
-   [https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language](https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language)   
+   [https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language](https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language)
+
+3. Hsu Myat Mo, Khin Mar Soe. "Syllable-based Neural Named Entity Recognition for Myanmar Language." Last modified 2019. [arXiv:1903.04739](arXiv:1903.04739).  
 
 ## Usage  
 
