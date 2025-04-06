@@ -128,10 +128,9 @@ MattCochrane	fw	S-PER
    Sookmyung Women’s University, Seoul, Korea, 2022.  
    [https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language](https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language)   
 
+## Usage  
 
-## Publication
-
-The myNER 7 Tags corpus (version 1.0) is being used for The International Conference on Cybernetics and Innovations (ICCI 2025) Conference paper.  
+The myNER 7 Tags Corpus (v1.0) is being used in a paper submitted to the *International Conference on Cybernetics and Innovations (ICCI 2025)*.  
 
 ## Citation
 
