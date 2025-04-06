@@ -1,4 +1,4 @@
-# myNER 7 Tags
+# myNER (7 Tags)
 
 
 ## License
