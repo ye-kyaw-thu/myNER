@@ -151,7 +151,7 @@ A preprint is available [here](https://github.com/ye-kyaw-thu/myNER/blob/main/7-
        alt="Best Presentation Award Certificate" 
        width="600">
   <br>
-  <strong>Figure 2.</strong> Best Presentation Award certificate
+  **Figure 2: Best Presentation Award certificate**
 </div>
 
 ## Citation
