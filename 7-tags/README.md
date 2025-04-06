@@ -38,3 +38,10 @@ test_v5.conll: Test data, UTF-8 text, CONLL format
 ## Publication
 
 The myNER 7 Tags corpus (version 1.0) is being used for The International Conference on Cybernetics and Innovations (ICCI 2025) Conference paper.  
+
+## Citation
+
+If you use the **myNER (7-tag)** corpus in your research, we would appreciate it if you cite the following reference:  
+
+Kaung Lwin Thant, Kwankamol Nongpong, Ye Kyaw Thu, Thura Aung, Khaing Hsu Wai, Thazin Myint Oo , "myNER: Contextualized Burmese Named Entity  Recognition with Bidirectional LSTM and fastText  Embeddings via Joint Training with POS Tagging ", the International Conference on Cybernetics and Innovations (ICCI 2025), April 2-4, Pattaya Chonburi, Thailand pp.xx-xx \[to Appear\] 
+
