@@ -8,6 +8,8 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 ## NER Tags
 
+<div align="center">  
+  
 **Table 1. Tag Names, Descriptions, and Examples of myNER Corpus**  
 
 | **Tag** | **Description**                       | **Examples**                                                                 |
@@ -20,6 +22,7 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 | LOC    | Locations and Geographic Features     | အာရှတိုက် (Asia), ထိုင်းနိုင်ငံ (Thailand)                                 |
 | O      | Outside                               | Nonspecific entities which do not match the above tags                      |
 
+</div>
 
 ## Publication
 
