@@ -116,6 +116,18 @@ MattCochrane	fw	S-PER
 ။	punc	O
 ```
 
+## Previous Works on Myanmar Language NER
+
+1. Hsu Myat Mo et al., "CRF-Based Named Entity Recognition for Myanmar Language,"  
+   in *Genetic and Evolutionary Computing (ICGEC 2016)*, J. S. Pan et al., Eds.,  
+   *Advances in Intelligent Systems and Computing*, vol. 536. Cham: Springer, 2017.  
+   [https://link.springer.com/chapter/10.1007/978-3-319-48490-7_24](https://link.springer.com/chapter/10.1007/978-3-319-48490-7_24)   
+
+2. Hsu Myat Mo and Khin Mar Soe, "Named Entity Recognition for Myanmar Language,"  
+   in *Proceedings of the 2022 International Conference on Communication and Computer Research (ICCR 2022)*,  
+   Sookmyung Women’s University, Seoul, Korea, 2022.  
+   [https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language](https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language)   
+
 
 ## Publication
 
