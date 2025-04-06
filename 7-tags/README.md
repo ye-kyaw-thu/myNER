@@ -26,14 +26,14 @@ myNER corpus containing 16, 605 sentences, originally sourced from data taken fr
 
 </div>
 
-## Corpus 
+## Corpus
 
-Under myNER/7-tags/corpus_ver.1.0/ folder,
+The corpus files are available under the [myNER/7-tags/corpus_ver.1.0/](https://github.com/ye-kyaw-thu/myNER/tree/main/7-tags/corpus_ver.1.0) folder:
 
-myNER-7tags_ver.1.0.conll: myNER (7 tags) version 1.0, UTF-8 text, CONLL format  
-train_v5.conll: Training data, UTF-8 text, CONLL format  
-val_v5.conll: Validation data, UTF-8 text, CONLL format  
-test_v5.conll: Test data, UTF-8 text, CONLL format  
+- [myNER-7tags_ver.1.0.conll](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/corpus_ver.1.0/myNER-7tags_ver.1.0.conll): Full myNER (7 tags) version 1.0 corpus, UTF-8 encoded, in CoNLL format  
+- [train_v5.conll](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/corpus_ver.1.0/train_v5.conll): Training data, UTF-8 encoded, CoNLL format  
+- [val_v5.conll](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/corpus_ver.1.0/val_v5.conll): Validation data, UTF-8 encoded, CoNLL format  
+- [test_v5.conll](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/corpus_ver.1.0/test_v5.conll): Test data, UTF-8 encoded, CoNLL format  
 
 ## Publication
 
