@@ -38,7 +38,7 @@ This visualization helps users understand the balance and representation of each
 
 <br/>
 
-*Figure 1: Distribution of NER tag categories in the myNER corpus (excluding the 'O' tag).*  
+**Figure 1: Distribution of NER tag categories in the myNER corpus (excluding the 'O' tag).**  
 
 </div>
 
