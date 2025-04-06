@@ -32,9 +32,15 @@ The following figure shows the distribution of named entity (NE) categories in t
 
 This visualization helps users understand the balance and representation of each NE tag in the dataset. As shown, `LOC` (location) entities are the most frequent, followed by `NUM`, `PER`, and `DATE`, while `ORG` and `TIME` are relatively less frequent.
 
-![Tag Distribution in myNER Corpus](https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/doc/datatags_2.png)
+<div align="center">
 
-*Figure 1: Distribution of NER tag categories in the myNER corpus (excluding the 'O' tag).*
+<img src="https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/doc/datatags_2.png" alt="Tag Distribution in myNER Corpus" width="600"/>
+
+<br/>
+
+*Figure 1: Distribution of NER tag categories in the myNER corpus (excluding the 'O' tag).*  
+
+</div>
 
 ## Corpus
 
