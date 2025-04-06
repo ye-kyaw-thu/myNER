@@ -144,7 +144,7 @@ A preprint is available [here](https://github.com/ye-kyaw-thu/myNER/blob/main/7-
 
 ## Award
 
-**3 April 2025**: Our paper *"myNER: Contextualized Burmese Named Entity Recognition with Bidirectional LSTM and fastText Embeddings via Joint Training with POS Tagging"* received the **Best Presentation Award** at the [4th International Conference on Cybernetics and Innovations 2025 (ICCI 2025)](https://example.com), Pattaya, Thailand.
+**3 April 2025**: Our paper *"myNER: Contextualized Burmese Named Entity Recognition with Bidirectional LSTM and fastText Embeddings via Joint Training with POS Tagging"* received the **Best Presentation Award** at the [4th International Conference on Cybernetics and Innovations 2025 (ICCI 2025)](https://icci2025.smc-thailand.org/), Pattaya, Thailand.
 
 <div align="center">
   <img src="https://github.com/ye-kyaw-thu/myNER/blob/main/7-tags/doc/BestPresentationAward_Certificate_from_KLT.jpg" 
