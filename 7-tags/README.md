@@ -128,7 +128,7 @@ MattCochrane	fw	S-PER
    Sookmyung Women’s University, Seoul, Korea, 2022.  
    [https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language](https://www.researchgate.net/publication/379828999_Named_Entity_Recognition_for_Myanmar_Language)
 
-3. Hsu Myat Mo, Khin Mar Soe. "Syllable-based Neural Named Entity Recognition for Myanmar Language." Last modified 2019. [arXiv:1903.04739](arXiv:1903.04739).  
+3. Hsu Myat Mo, Khin Mar Soe. "Syllable-based Neural Named Entity Recognition for Myanmar Language." Last modified 2019. [arXiv:1903.04739](https://arxiv.org/abs/1903.04739).  
 
 ## Usage  
 
